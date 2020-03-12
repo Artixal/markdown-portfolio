@@ -1,1 +1,1 @@
-(https://github.com/Artixal)
+[Github Profile](https://github.com/Artixal)
